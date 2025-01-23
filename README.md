@@ -1,10 +1,10 @@
-# Birthday-book
+# birthday-book
 > *This program was originally written for the MSCI 121 course at the University of Waterloo, taught by Mark Smucker. 
 > The included features were written to match the requirements of the assignment.*
 
 A simple program for logging, searching, and organizing saved birthdays within the terminal. 
 
-## Allowed commands: 
+### Allowed commands: 
 1. help - Lists all the allowed commands. 
 2. add (First name) (Last name) (Month) (Day) (Year) - Add a birthday to the book. 
 3. list - List all the saved birthdays with their indices. 
